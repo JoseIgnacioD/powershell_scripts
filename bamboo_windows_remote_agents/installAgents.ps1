@@ -268,7 +268,6 @@ try
 		Add-Content $pathFile "# Custom capabilities #"
 		Add-Content $pathFile "#######################"
 		Add-Content $pathFile "OS=Windows"
-		Add-Content $pathFile "WindowsShare=dc2004.fgv.br-tic"
 	}
 
 
